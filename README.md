@@ -40,7 +40,7 @@ This puts `React Native Debugger.app` in your `/applications/` folder.
 
 ## Credits
 
-- Great work of [React DevTools](https://github.com/facebook/react-devtools)
+- Great work of [React DevTools](https://github.com/facebook/react/tree/master/packages/react-devtools)
 - Great work of [Redux DevTools](https://github.com/gaearon/redux-devtools) / [Remote Redux DevTools](https://github.com/zalmoxisus/remote-redux-devtools) and all third-party monitors.
 
 ## Backers
